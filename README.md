@@ -11,7 +11,6 @@ creative work, and extracurricular experience.
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhani-balchandani-ab0657235)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanibalchandani11@gmail.com)
 
-![Framer](https://img.shields.io/badge/Built_with-Framer-0055FF?logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-Desktop_·_Tablet_·_Mobile-8B5CF6)
 ![Status](https://img.shields.io/badge/Status-Live-22C55E)
