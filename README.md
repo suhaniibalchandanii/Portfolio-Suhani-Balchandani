@@ -7,7 +7,7 @@
 A responsive personal portfolio presenting my projects, technical interests,
 creative work, and extracurricular experience.
 
-[![Portfolio](https://img.shields.io/badge/View_Live_Portfolio-171717?style=for-the-badge&logo=framer&logoColor=white)](https://visual-development-421176.framer.app/)
+
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhani-balchandani-ab0657235)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhanibalchandani11@gmail.com)
 
